@@ -1,3 +1,9 @@
+## Leaderboard
+
+Interactive results for all models and tasks:
+
+**[https://xtqqwq.github.io/UOJ-Bench/](https://xtqqwq.github.io/UOJ-Bench/)**
+
 ## Directory Structure
 
 ```
